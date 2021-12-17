@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "cleanm4",
       "title": "CleanM4",
@@ -59,7 +59,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Keep it Tidy, Keep it Clean 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍",
+        "meta_descr": "Keep it Tidy, Keep it Clean! 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2858,7 +2858,7 @@
       "settings": {
         "title": "Booking",
         "order": 2,
-        "meta_descr": "Keep it Tidy, Keep it Clean 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍"
+        "meta_descr": "Keep it Tidy, Keep it Clean! 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍"
       },
       "components": [
         {
