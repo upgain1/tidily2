@@ -31,7 +31,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Tidify.co",
+    "name": "Tidily.co",
     "versionFirst": "5.2.0",
     "siteFonts": [
       {
@@ -44,24 +44,26 @@
     "uniqCompNum": 13,
     "versionPublish": "5.5.5",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/tidily-logos-03-128x51.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "tidily12"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Boss E, [12/16/2021 11:29 PM]\nKeep it Tidy, Keep it Clean 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%202%20(2)-1899x1707.png"
       },
       "components": [
         {
