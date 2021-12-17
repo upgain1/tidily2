@@ -59,7 +59,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Boss E, [12/16/2021 11:29 PM]\nKeep it Tidy, Keep it Clean 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍",
+        "meta_descr": "Keep it Tidy, Keep it Clean 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2857,7 +2857,8 @@
     "page1.html": {
       "settings": {
         "title": "Booking",
-        "order": 2
+        "order": 2,
+        "meta_descr": "Keep it Tidy, Keep it Clean 🧼 \nBook your Home cleaning in minutes⏰\nServicing the greater NY Area📍"
       },
       "components": [
         {
