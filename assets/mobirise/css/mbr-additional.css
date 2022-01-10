@@ -3902,18 +3902,6 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-#custom-html-b {
-  /* Type valid CSS here */
-}
-#custom-html-b div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-b p {
-  font-size: 60px;
-  color: #777;
-}
 .cid-s2V9RwV6vb .navbar {
   padding: 0.5rem 0;
   background: #ffffff;
@@ -4766,16 +4754,4 @@ section.lazy-placeholder:after {
   .cid-sSDDFARIai * {
     text-align: center;
   }
-}
-#custom-html-j {
-  /* Type valid CSS here */
-}
-#custom-html-j div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-j p {
-  font-size: 60px;
-  color: #777;
 }
