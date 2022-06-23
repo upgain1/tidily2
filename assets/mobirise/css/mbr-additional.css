@@ -3902,17 +3902,14 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-#custom-html-b {
-  /* Type valid CSS here */
+.cid-t9y8gCZtUC {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
 }
-#custom-html-b div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-b p {
-  font-size: 60px;
-  color: #777;
+.cid-t9y8gCZtUC .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
 }
 .cid-s2V9RwV6vb .navbar {
   padding: 0.5rem 0;
