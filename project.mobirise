@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "booking.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "cleanm4",
       "title": "CleanM4",
@@ -53,7 +53,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "tidily12"
   },
   "pages": {
